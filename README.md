@@ -1,3 +1,9 @@
+
+
+1. Check Buisness
+2. type : tcsglobal
+3. provdide : access_token
+
 # Udeler | Udemy Course Downloader (GUI)
 
 A cross platform (Windows, Mac, Linux) desktop application for downloading Udemy Courses.
